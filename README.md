@@ -10,3 +10,11 @@
 
 ¡Gracias por visitar mi portafolio en GitHub!
 
+# Contacto y Redes Sociales
+
+¡Encuéntrame en las redes!
+
+- **LinkedIn**: [Tu perfil de LinkedIn](enlace_a_tu_perfil)
+- **Twitter**: [Tu perfil de Twitter](enlace_a_tu_perfil)
+- **Sitio Web Personal**: [Tu sitio web personal](enlace_a_tu_sitio_web)
+- **Correo Electrónico**: tuemail@example.com

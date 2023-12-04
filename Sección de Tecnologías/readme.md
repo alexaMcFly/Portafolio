@@ -1,6 +1,6 @@
 # Sección de Tecnologías
 
-¡Bienvenido a la sección de Tecnologías de mi portafolio!
+¡Bienvenido a la sección de Tecnologías de mi portafolio! Aquí podrás visualizar las distintas tecnologías que manejo y cómo las he aplicado a mis proyectos.
 
 ## Áreas de Conocimiento
 

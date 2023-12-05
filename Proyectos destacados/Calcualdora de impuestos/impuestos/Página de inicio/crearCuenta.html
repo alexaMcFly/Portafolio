@@ -1,0 +1,27 @@
+<?php
+
+    session_start();
+
+    if (isset($_SESSION['usuarios'])) {
+        header("location:Inicio.html");
+    }
+
+?>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crear cuenta</title>
+    <link rel="stylesheet" href="css/formulario.css">
+    <link rel="stylesheet" href="css/cabecera.css">
+</head>
+<body>
+  <form action="validarDatos.php" method="post">
+    <h1><b>Crear cuenta</b></font></h1>
+    <p><i>Usuario</i> <input type="text" placeholder="Ingrese su nombre" name="usuario" id="usuario"></p>
+    <p><i>Password</i> <input type="password" placeholder="Ingrese su contraseña" name="password" id="password"></p>
+    <input type="submit" name="Crear" value="Crear">
+  </form> 
+</body>
+</html>

@@ -1,0 +1,53 @@
+span{
+    font-size: 20px;
+}
+.contenedor{
+    display: grid;
+    grid-template-columns: 500px ;
+}
+.contenedor>div{
+    display: inline-block;
+}
+table{
+    width: 80%;
+    align-self: center;
+    border: 2px solid #000;
+}
+th{
+    text-align: center;
+    border: 2px solid #000;
+}
+tr{
+    text-align: center;
+    border: 2px solid #000;
+}
+td{
+    border: 2px solid #000;
+}
+.tabla{
+    align-content: center;
+}
+.boton{
+    padding:10px;
+}
+.titulo{
+    font-size: 50px;
+}
+.subtitulo{
+    font-size: 20px;
+}
+.mensaje{
+    font-size: 40px;
+}
+hr{
+    border: 2px;
+}
+
+.imgUser{
+    background-color: #000;
+    width: 100px;
+}
+.hidden{
+    padding: 0; 
+    border-width: 0;
+}

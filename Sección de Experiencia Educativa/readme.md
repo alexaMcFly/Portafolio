@@ -4,32 +4,31 @@
 
 ## Formación Académica
 
-### Universidad XYZ
-- **Grado**: 
-- **Periodo**: Septiembre 20XX - Julio 20XX
-- **Descripción**: Detalles relevantes sobre el programa, proyectos destacados, logros académicos, etc.
+### Universidad - Tecnológico de Monterrey
+- **Grado**: Ingeniería en Robótica y Sistemas Digitales/ 3er semestre
+- **Periodo**: Agosto 2022 - ?
+- **Descripción**: Programa enfocado en el desarrollo de sistemas embebidos y su aplicación a la robótica inteligente.
+
+###  Bachillerato tecnológico - CBTIS 179
+- **Grado**: Carrera técnica en programación
+- **Periodo**: Agosto 2019 - Julio 2022
+- **Descripción**: Programa que desarrolla las competencias profesionales que permiten al estudiante realizar actividades dirigidas a analizar, diseñar, desarrollar , instalar y mantener software de aplicación tomando como base los requerimientos del usuario.
 
 ## Cursos y Certificaciones
 
-### Certificado de Desarrollo Web - Coursera
-- **Nombre del Curso**: Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL
-- **Institución**: Coursera
-- **Duración**: 6 semanas
-- **Descripción**: Breve descripción sobre lo aprendido y su relevancia.
-
-### Curso de Ciencia de Datos - Udacity
-- **Nombre del Curso**: Fundamentos de Data Science
-- **Institución**: Udacity
-- **Duración**: 3 meses
-- **Descripción**: Conocimientos adquiridos y proyectos realizados durante el curso.
+### Curso de Ciencia de Datos - Tecnológico de Monterrey
+- **Nombre del Curso**: Matemáticas y ciencia de datos para la toma de decisiones
+- **Institución**: Tecnológico de Monterrey
+- **Duración**: 4 meses
+- **Descripción**: Como resultado se desarrollan modelos matemáticos básicos que pueden ser relevantes para la toma de decisiones en situaciones de la vida real apoyado en el uso de la tecnología.
 
 ## Reconocimientos Académicos
 
-- Beca de Excelencia Académica - Año 20XX
-  - **Institución**: Nombre de la institución que otorgó la beca.
-  - **Descripción**: Detalles sobre la beca y logros académicos asociados.
+- Beca Líderes del Mañana - Año 2022
+  - **Institución**: Tecnológico de Monterrey.
+  - **Descripción**: Es un programa de movilidad social para formar líderes talentosos y sensibles que impacten positivamente a la comunidad, y que requieren apoyo financiero del 100 % para estudiar una carrera profesional en el Tec de Monterrey.
 
 ## Proyectos Destacados
 
-- [Proyecto Final de Carrera: Sistema de Gestión de Inventarios](link_al_repositorio)
-  - Descripción: Breve descripción sobre el proyecto, tecnologías utilizadas y logros obtenidos.
+- [Proyecto Final de Aplicaciones Web: Calculadora de impuestos en línea](link_al_repositorio)
+  - Descripción: Aplicación web de calculadora para el cálculo de ISR  e IVA, en donde se pueden visualizar de forma amigable los egresos e ingresos.

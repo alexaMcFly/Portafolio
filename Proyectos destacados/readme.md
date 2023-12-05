@@ -10,8 +10,8 @@ Sistema de gestión de inventario y tienda en línea de instrumentos musicales.
 ### [Aplicación web para calcular impuestos](https://github.com/alexaMcFly/Portafolio/tree/main/Proyectos%20destacados/Calcualdora%20de%20impuestos/impuestos/P%C3%A1gina%20de%20inicio)
 Aplicación web para calcular ISR e IVA con base a los ingresos y egresos de una empresa.
 
-### [Sistema gestor de archivos de canciones mediante estructuras de datos](enlace_al_proyecto_3)
-Breve descripción o introducción del proyecto 3. Puedes incluir detalles clave, tecnologías utilizadas o logros destacados.
+### [Sistema gestor de archivos de canciones mediante estructuras de datos](https://github.com/alexaMcFly/Portafolio/tree/main/Proyectos%20destacados/gestorArchivosMusica)
+Proyecto enfocado en el aprendizaje y aplicación de estructuras de datos y algoritmos de ordenamiento
 
 1. **Fork** este repositorio.
 2. Crea una nueva rama (`git checkout -b nuevo-proyecto`).

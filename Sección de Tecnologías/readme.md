@@ -5,19 +5,17 @@
 ## Áreas de Conocimiento
 
 ### Desarrollo Web
-- **Lenguajes**: 
-- **Frameworks**: 
-- **Herramientas**: 
+- **Lenguajes**: php, javascript, css, html.
+- **Herramientas**: Visual Studio Code.
 
 ### Desarrollo de Software
-- **Lenguajes**: 
-- **Frameworks**:
-- **Bases de Datos**:
+- **Lenguajes**: C++, python.
+- **Bases de Datos**: MySql.
 
 ### Ciencia de Datos
-- **Lenguajes**: 
-- **Librerías**:
-- **Visualización**: 
+- **Lenguajes**: python
+- **Librerías**: pandas
+- **Visualización**: Matplotlib.
 
 ## Proyectos Relevantes
 
@@ -30,5 +28,5 @@
 
 ## Certificaciones y Cursos
 
-- Certificado de React.js - Udemy (link_al_certificado)
+- Certificado de Design Thinking - Conecta Empleo (link_al_certificado)
 - Curso de Ciencia de Datos - Coursera (link_al_curso)

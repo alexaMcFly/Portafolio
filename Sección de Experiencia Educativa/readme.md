@@ -32,3 +32,6 @@
 
 - [Proyecto Final de Aplicaciones Web: Calculadora de impuestos en línea](https://github.com/alexaMcFly/Portafolio/tree/main/Proyectos%20destacados/Calcualdora%20de%20impuestos/impuestos/P%C3%A1gina%20de%20inicio)
   - Descripción: Aplicación web de calculadora para el cálculo de ISR  e IVA, en donde se pueden visualizar de forma amigable los egresos e ingresos.
+ 
+- [Proyecto Final de Aplicaciones Web: Tienda de Música en línea con sistema de base de datos](https://github.com/alexaMcFly/Portafolio/tree/main/Proyectos%20destacados/Calcualdora%20de%20impuestos/impuestos/P%C3%A1gina%20de%20inicio)
+  - Descripción: Aplicación web de tienda de instrumentos musicales en línea con gestión de inventario mediante MySQL

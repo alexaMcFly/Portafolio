@@ -4,14 +4,13 @@
 
 ## Lista de Proyectos
 
+### [Tienda en línea de instrumentos de música](https://github.com/alexaMcFly/Portafolio/tree/main/Proyectos%20destacados/tiendaMusica)
+Sistema de gestión de inventario y tienda en línea de instrumentos musicales.
 
-### [Nombre del Proyecto 1](enlace_al_proyecto_1)
-Breve descripción o introducción del proyecto 1. Puedes incluir detalles clave, tecnologías utilizadas o logros destacados.
+### [Aplicación web para calcular impuestos](https://github.com/alexaMcFly/Portafolio/tree/main/Proyectos%20destacados/Calcualdora%20de%20impuestos/impuestos/P%C3%A1gina%20de%20inicio)
+Aplicación web para calcular ISR e IVA con base a los ingresos y egresos de una empresa.
 
-### [Nombre del Proyecto 2](enlace_al_proyecto_2)
-Breve descripción o introducción del proyecto 2. Puedes incluir detalles clave, tecnologías utilizadas o logros destacados.
-
-### [Nombre del Proyecto 3](enlace_al_proyecto_3)
+### [Sistema gestor de archivos de canciones mediante estructuras de datos](enlace_al_proyecto_3)
 Breve descripción o introducción del proyecto 3. Puedes incluir detalles clave, tecnologías utilizadas o logros destacados.
 
 1. **Fork** este repositorio.
@@ -31,6 +30,4 @@ Indica la licencia bajo la cual se encuentran estos proyectos, si aplica. Esto e
 
 ¿Tienes alguna pregunta, sugerencia o simplemente quieres decir hola? ¡No dudes en contactarnos! Puedes encontrarnos a través de:
 
-- Correo electrónico: [correo@example.com](mailto:correo@example.com)
-- Twitter: [@NombreDeUsuario](https://twitter.com/NombreDeUsuario)
-- Sitio web: [www.ejemplo.com](https://www.ejemplo.com)
+- Correo electrónico: alexagonzalezluc16@gmail.com

@@ -12,6 +12,11 @@
 - **Lenguajes**: C++, python.
 - **Bases de Datos**: MySql.
 
+### Internet de las cosas
+- **Lenguajes**: arduino
+- **Librerías**: DHT11 y NODEMCU82
+- **Servicio en la nube**: Ubidots
+
 ### Ciencia de Datos
 - **Lenguajes**: python
 - **Librerías**: pandas
@@ -28,5 +33,8 @@
 
 ## Certificaciones y Cursos
 
-- Certificado de Design Thinking - Conecta Empleo (link_al_certificado)
-- Curso de Ciencia de Datos - Coursera (link_al_curso)
+- Curso de Matemáticas y Ciencia de Datos - Tecnológico de Monterrey ITESM (link_al_curso)
+- Curso de algoritmos y estructuras de datos - Tecnológico de Monterrey ITESM (link_al_curso)
+- Curso de progración orientada a objetos - Tecnológico de Monterrey ITESM (link_al_curso)
+- Curso de programación con estructuras de control con python - Tecnológico de Monterrey ITESM (link_al_curso)
+- 

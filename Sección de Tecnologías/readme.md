@@ -22,14 +22,6 @@
 - **Librerías**: pandas
 - **Visualización**: Matplotlib.
 
-## Proyectos Relevantes
-
-- [Proyecto de Desarrollo Web: MiPortafolioWeb](link_al_repositorio)
-  - Descripción: Describe aquí tu proyecto
-
-- [Proyecto de Ciencia de Datos: Análisis de Datos de Mercado](link_al_repositorio)
-  - Descripción: Describe aquí tu proyecto
-
 
 ## Certificaciones y Cursos
 

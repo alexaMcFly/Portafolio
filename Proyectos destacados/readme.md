@@ -16,7 +16,7 @@ Proyecto enfocado en el aprendizaje y aplicación de estructuras de datos y algo
 ### [Prototipo de dispositivo de monitoreo de condiciones de conservación para la rana Tláloc en México](https://github.com/MonicaMMartinezV/Ambientum)
 Proyecto enfocado al monitoreo de temperatura y humedad para la consevación de especies endémicas en México,mediante tecnologías de IoT.
 
-### [Proyecto social de fomento artstico](https://drive.google.com/drive/folders/1qyHe9t9WpY45eCh0RNqVXehcM078U0xV)
+### [Proyecto social de fomento artístico](https://drive.google.com/drive/folders/1qyHe9t9WpY45eCh0RNqVXehcM078U0xV)
 Proyecto enfocado al fomento de la educación artística en niños y jóvenes en Tulancingo,Hgo.
 
 1. **Fork** este repositorio.
